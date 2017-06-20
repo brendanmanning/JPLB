@@ -1,6 +1,7 @@
 // JPLB.js
 // (c) 2017 Brendan Manning
 // You can use this however you want without crediting me (although it would be much appreciated!)
+// However if something goes wrong: it's not my fault and you can't sue me or make me change this software
 // Please refer to the LICENSE.md file for more information
 
 class JPLB {
